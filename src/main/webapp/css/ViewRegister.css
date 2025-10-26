@@ -1,0 +1,48 @@
+/* Page-specific styles for Create Account */
+
+.create-account-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.create-account-form label {
+    font-weight: bold;
+    color: #333;
+}
+
+.create-account-form input[type="text"],
+.create-account-form input[type="email"],
+.create-account-form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.error {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Links below the Register button inside create-account form */
+.create-account-form .login-links {
+    display: flex;
+    justify-content: center;   /* center the links */
+    gap: 20px;                 /* spacing between Login & Forgot Password */
+    margin-top: 5px;           /* space above links */
+}
+
+.create-account-form .login-links a {
+    background: none;          /* remove .btn background */
+    color: #3498db;            /* blue text */
+    font-size: 14px;
+    text-decoration: none;
+    padding: 0;
+}
+
+.create-account-form .login-links a:hover {
+    text-decoration: underline;
+}

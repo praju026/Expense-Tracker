@@ -1,0 +1,41 @@
+/* Login form page-specific styles */
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.login-form label {
+    font-weight: bold;
+    color: #333;
+}
+
+.login-form input[type="text"],
+.login-form input[type="email"],
+.login-form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+/* Links below the Login button */
+.login-form .login-links {
+    display: flex;
+    justify-content: center;   /* center links */
+    gap: 20px;                 /* space between Sign Up & Forgot Password */
+    margin-top: 10px;          /* space above links */
+}
+
+.login-form .login-links a {
+    color: #3498db;            /* blue text */
+    text-decoration: none;     
+    font-size: 14px;
+    padding: 0;
+}
+
+.login-form .login-links a:hover {
+    text-decoration: underline;
+}
