@@ -60,7 +60,7 @@
 
 ## Access
 
-- Open your browser and go to: `http://localhost:8080/expense-tracker`
+- Open your browser and go to: `http://localhost:8080/expensetracker/RegisterAccountView.jsp`
 
 ## Usage
 
