@@ -13,8 +13,6 @@
 - [Usage](#usage)  
 - [Screenshots](#screenshots)  
 - [Future Improvements](#future-improvements)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
@@ -75,9 +73,14 @@
 
 > Add your screenshots in this section
 
-| Login Page | Dashboard | Add Expense | View Expense |
-|------------|-----------|------------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/index.png) | ![Add Expense](screenshots/add.png) | ![View Expense](screenshots/view.png) |
+| Login Page |
+| ![Login](screenshots/login.png) | 
+| Dashboard |
+|![Dashboard](screenshots/index.png) | 
+| Add Expense |
+|![Add Expense](screenshots/add.png) | 
+| View Expense |
+|![View Expense](screenshots/view.png) |
 
 ## Future Improvements
 
