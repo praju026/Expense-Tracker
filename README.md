@@ -50,7 +50,7 @@
 
 ## Configure Database Connection
 
-- Update `DBConnection.java` with your MySQL username and password. (if your username and pasword is root no need of changing)
+- Update your MySQL username and password. (if your username and pasword is root no need of changing)
 
 ## Run the Project
 
@@ -70,8 +70,6 @@
 4. View all expenses in a neat table for tracking.
 
 ## Screenshots
-
-> Add your screenshots in this section
 
 | Login Page |
 | ![Login](screenshots/login.png) | 
